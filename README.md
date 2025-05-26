@@ -16,7 +16,9 @@ Currently building my skills and working towards internships in the tech industr
 ## 📌 Projects
 
 🔹Trip Guardian - Safety Travel app for DSTA Brainhack Hackathon
-🔹 Fake image detector
+
+🔹 Fake image detector webpage
+
 🔹 Student sorting algorithm 
 
 Check out my repositories to see what else I'm working on!
