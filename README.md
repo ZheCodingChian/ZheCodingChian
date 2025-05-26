@@ -9,19 +9,17 @@ Currently building my skills and working towards internships in the tech industr
 
 🎓 Computer Science Student @ Nanyang Technological University | Year 1
 
-💻 Languages: Python, C, Java, Verilog
-
-🌱 Currently Learning: HTML, CSS, C++
+💻 Languages: Python, C, C++, Java, Verilog, Assembly, HTML, CSS, Javascript
 
 📚 Interests: Data Structures & Algorithms, Web Development, UX/UI design
 
 ## 📌 Projects
 
-Fake image detector
+🔹 Fake image detector
 
-Student sorting algorithm 
+🔹 Student sorting algorithm 
 
-🔹 Check out my repositories to see what else I'm working on!
+Check out my repositories to see what else I'm working on!
 
 ## 📫 Connect with Me
 
