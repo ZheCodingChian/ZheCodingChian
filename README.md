@@ -7,7 +7,7 @@ Currently building my skills and working towards internships in the tech industr
 
 ## 🚀 About Me
 
-🎓 Computer Science Student @ Nanyang Technological University | Year 1
+🎓 Computer Science Student @ Nanyang Technological University | Year 2
 
 💻 Languages: Python, C, C++, Java, Verilog, Assembly, HTML, CSS, Javascript
 
@@ -15,8 +15,8 @@ Currently building my skills and working towards internships in the tech industr
 
 ## 📌 Projects
 
+🔹Trip Guardian - Safety Travel app for DSTA Brainhack Hackathon
 🔹 Fake image detector
-
 🔹 Student sorting algorithm 
 
 Check out my repositories to see what else I'm working on!
