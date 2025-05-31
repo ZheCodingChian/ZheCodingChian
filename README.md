@@ -11,11 +11,13 @@ Currently building my skills and working towards internships in the tech industr
 
 💻 Languages: Python, C, C++, Java, Verilog, Assembly, HTML, CSS, Javascript
 
-📚 Interests: Data Structures & Algorithms, Web Development, UX/UI design
+📚 Interests: Data Structures & Algorithms, Web Development, UX/UI design, Machine Learning
 
 ## 📌 Projects
 
-🔹Trip Guardian - Safety Travel app for DSTA Brainhack Hackathon 2025
+🔹 Etch Your Sketch webpage - Interactive drawing canvas
+
+🔹 Trip Guardian - Safety Travel app for DSTA Brainhack Hackathon 2025
 
 🔹 Fake image detector webpage
 
@@ -25,10 +27,11 @@ Check out my repositories to see what else I'm working on!
 
 ## 📫 Connect with Me
 
+Looking for internship opporunities for Winter 2025 and Summer 2026!
+
 📧 Email: zhechianl@gmail.com
 
 💼 LinkedIn: [LinkedIn/zhechian](https://www.linkedin.com/in/zhechian/)
 
-Let's collaborate and build something awesome together! 🚀
 
 
