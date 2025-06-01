@@ -19,9 +19,11 @@ Currently building my skills and working towards internships in the tech industr
 
 🔹 Trip Guardian - Safety Travel app for DSTA Brainhack Hackathon 2025
 
+🔹 Student sorting algorithm 
+
 🔹 Fake image detector webpage
 
-🔹 Student sorting algorithm 
+
 
 Check out my repositories to see what else I'm working on!
 
