@@ -29,8 +29,6 @@ Check out my repositories to see what else I'm working on!
 
 ## 📫 Connect with Me
 
-Looking for internship opportunities for Winter 2025 and Summer 2026!
-
 📧 Email: zhechianl@gmail.com
 
 💼 LinkedIn: [LinkedIn/zhechian](https://www.linkedin.com/in/zhechian/)
