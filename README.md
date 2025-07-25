@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Zhe Chian, a Computer Science student passionate about software development!
 
-Currently building my skills and working towards internships in the tech industry!
+Currently building my skills!
 
 
 ## 🚀 About Me
